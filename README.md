@@ -42,6 +42,7 @@ Logo procurei as melhores plataformas de cursos online e desde então venho inve
 
 ### Onde faço cursos:
 ![Alura](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)&nbsp;
+
 ![Udemy](https://teach.udemy.com/wp-content/themes/wp-teach/assets/images/logo.svg)&nbsp;
 
 
