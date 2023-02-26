@@ -26,6 +26,8 @@ Logo procurei as melhores plataformas de cursos online e desde então venho inve
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
+![sublime](https://img.shields.io/badge/-Sublime-0D1117?style=for-the-badge&logo=sublimetext&labelColor=0D1117)
+
 
 ### Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
@@ -33,7 +35,10 @@ Logo procurei as melhores plataformas de cursos online e desde então venho inve
 ### Próximos passos:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=0D1117)&nbsp;
+
+
+
 
 ### Onde faço cursos:
 ![Alura](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)&nbsp;
