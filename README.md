@@ -12,7 +12,7 @@ Aficionado pelo conhecimento, fiquei interessado em aprofundar na carreira de de
 
 <p>Tenho certeza que para chegar a ser Dev. Full-stack o caminho é árduo e exigirá muita disciplina e humildade.
 
-Logo procurei as melhores plataformas de cursos online e desde então venho investindo em conhecimento técnico. Além disso escolhi um excelente centro universitário de Brasília, o IESB; onde venho cursando meu 1º semestre em Análise e Desenvolvimento de Sistemas.
+Logo procurei as melhores plataformas de cursos online e desde então venho investindo em conhecimento técnico. Além disso escolhi um excelente centro universitário, o IESB; onde venho cursando meu 1º semestre em Análise e Desenvolvimento de Sistemas.
 </p>
 
 ### Minhas habilidades:
