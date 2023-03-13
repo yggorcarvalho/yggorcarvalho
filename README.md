@@ -25,7 +25,7 @@ Logo, procurei as melhores plataformas de cursos online e desde então venho inv
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![sublime](https://img.shields.io/badge/-Sublime-0D1117?style=for-the-badge&logo=sublimetext&labelColor=0D1117)
 
 
