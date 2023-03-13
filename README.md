@@ -30,6 +30,7 @@ Logo procurei as melhores plataformas de cursos online e desde então venho inve
 
 ### Estudando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Bootstrapsvg](https://img.shields.io/badge/-Bootstrapsvg-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Próximos passos:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=0D1117)&nbsp;
