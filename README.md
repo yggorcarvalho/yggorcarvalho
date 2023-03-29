@@ -4,13 +4,13 @@
 
 <p>Apesar de sempre ter contato e gostar do meio tecnológico, nunca pensei que um dia iria me dedicar à aprender uma linguagem de programação e quiçá pensar em ser desenvolvedor. 
 
-Meu primeiro contato profissional na carreira tecnológica foi em 2022, como Analista de Atendimento, onde também executava testes manuais, e nesta empresa acabei fazendo amizade com um desenvolvedor Back-end, que acabou suscitando em mim a vontade de ser desenvolvedor. 
+Meu primeiro contato profissional na carreira tecnológica foi em 2022, como Analista de Atendimento, onde também executava testes manuais. Nesta empresa acabei fazendo amizade com um desenvolvedor Back-end, que acabou suscitando em mim a vontade de ser um desenvolvedor. 
 
-Aficionado pelo conhecimento, fiquei interessado em aprofundar na carreira de desenvolvedor e a direcionar meus estudos para futuramente trabalhar como desenvolvedor Full-stack.</p>  
+Aficionado pelo conhecimento, fiquei interessado em aprofundar na carreira e direcionar meus estudos para futuramente trabalhar como desenvolvedor Full-stack.</p>  
 
 <p>Tenho certeza que para chegar a ser Dev. Full-stack o caminho é árduo e exigirá muita disciplina e humildade.
 
-Logo, procurei as melhores plataformas de cursos online e desde então venho investindo em conhecimento técnico. Além disso escolhi um excelente centro universitário, onde venho cursando meu 1º semestre em Análise e Desenvolvimento de Sistemas.
+Logo, procurei as melhores plataformas de cursos online. Desde então venho investindo em conhecimento técnico. Além disso, escolhi um excelente centro universitário, onde venho cursando meu 1º semestre em Análise e Desenvolvimento de Sistemas.
 </p>
 
 ### Minhas habilidades:
