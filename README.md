@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Me+chamo+Yggor+Carvalho,;Tenho+32+anos,;Sou+de+Brasília,+DF;Estudo+Análise+e+Desenvolvimento+de+Sistemas+no+IESB;Seja+Bem-Vindo(a),+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-<p>Apesar de sempre ter contato e gostar do meio tecnológico, nunca pensei que um dia iria me dedicar à aprender uma linguagem de programação e quiçá pensar em ser desenvolvedor. 
+<p>sou apaixonado por tecnolagia. Apesar do meu interesse e envolvimento no meio tecnológico, nunca imaginei que um dia me dedicaria ao aprendizado de programação e me tornaria um desenvolvedor.
 
-Meu primeiro contato profissional na carreira tecnológica foi em 2022, como Analista de Atendimento, onde também executava testes manuais. Nesta empresa acabei fazendo amizade com um desenvolvedor Back-end, que acabou suscitando em mim a vontade de ser um desenvolvedor. 
+Em 2022, tive meu primeiro contato profissional na área tecnológica como Analista de Atendimento Trainee, onde também realizei alguns testes manuais. Nessa empresa, tive a oportunidade de interagir com desenvolvedores e percebi a importância deles na equipe, o que despertou em mim o desejo de me tornar um desenvolvedor. Motivado por esse desejo, decidi aprofundar minha carreira e concentrar meus estudos para trabalhar futuramente como desenvolvedor Full-Stack. 
 
-Aficionado pelo conhecimento, fiquei interessado em aprofundar na carreira e direcionar meus estudos para futuramente trabalhar como desenvolvedor Full-stack.</p>  
+Estou ciente de que o caminho para me tornar Full-Stack é desafiador e exigirá disciplina, conhecimento técnico e humildade. Portanto, busquei as melhores plataformas de cursos online, onde adquiri familiaridade com HTML5/CSS3, JavaScript, Bootstrap, Angular, TypeScript, NodeJs, Banco de Dados MySQL e cursos relacionados a QA Software, como Cypress, entre outros. Além disso, optei por frequentar um excelente centro universitário, onde estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas.
 
-<p>Tenho certeza que para chegar a ser Dev. Full-stack o caminho é árduo e exigirá muita disciplina e humildade.
+Estou em busca de oportunidades na área de desenvolvimento de software para expandir minha experiência. Gostaria de fazer parte de uma equipe que valorize a cooperação e o crescimento contínuo. Se você está procurando alguém empenhado, dedicado e sedento por conhecimento, vamos nos conectar e conversar sobre como posso contribuir para o sucesso da sua equipe?
 
-Logo, procurei as melhores plataformas de cursos online. Desde então venho investindo em conhecimento técnico. Além disso, escolhi um excelente centro universitário, onde venho cursando meu 1º semestre em Análise e Desenvolvimento de Sistemas.
+Até breve!
 </p>
 
 ### Minhas habilidades:
