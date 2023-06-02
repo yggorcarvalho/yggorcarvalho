@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi!+Me+chamo+Yggor+Carvalho,;Tenho+32+anos,;Sou+de+Brasília,+DF;Estudo+Análise+e+Desenvolvimento+de+Sistemas+no+IESB;Seja+Bem-Vindo(a),+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-<p>sou apaixonado por tecnolagia. Apesar do meu interesse e envolvimento no meio tecnológico, nunca imaginei que um dia me dedicaria ao aprendizado de programação e me tornaria um desenvolvedor.
+<p>Sou um apaixonado por tecnolagia. Apesar do meu interesse e envolvimento no meio tecnológico, nunca imaginei que um dia me dedicaria ao aprendizado de programação e me tornaria um desenvolvedor.
 
 Em 2022, tive meu primeiro contato profissional na área tecnológica como Analista de Atendimento Trainee, onde também realizei alguns testes manuais. Nessa empresa, tive a oportunidade de interagir com desenvolvedores e percebi a importância deles na equipe, o que despertou em mim o desejo de me tornar um desenvolvedor. Motivado por esse desejo, decidi aprofundar minha carreira e concentrar meus estudos para trabalhar futuramente como desenvolvedor Full-Stack. 
 
